@@ -34,7 +34,7 @@ The Citizen Ledger displays all reported issues as detailed cards showing the ph
 
 ### Admin Resolution Approval with Gemini Vision
 
-When a citizen uploads a resolution photo, the issue moves to Pending Verification status instead of immediately resolving. Only the admin (rohithboyini181@gmail.com) sees the Approve Resolution button. When admin clicks Approve, Gemini Vision compares the original issue photo against the resolution photo and confirms if the issue is genuinely fixed. If verified, the issue is marked Resolved and the citizen earns 150 points and a trust score boost.
+When a citizen uploads a resolution photo, the issue moves to Pending Verification status instead of immediately resolving. Only the admin sees the Approve Resolution button. When admin clicks Approve, Gemini Vision compares the original issue photo against the resolution photo and confirms if the issue is genuinely fixed. If verified, the issue is marked Resolved and the citizen earns 150 points and a trust score boost.
 
 ### Impact Dashboard
 
